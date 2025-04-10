@@ -77,7 +77,7 @@ Most transformation functions accept common parameters:
 
 ## License
 
-[MIT License](LICENSE)
+[Apache 2.0 License](LICENSE)
 
 ## Citation
 
