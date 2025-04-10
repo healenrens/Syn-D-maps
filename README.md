@@ -1,6 +1,6 @@
 # Syn-D-Maps
 
-Syn-D-Maps is a comprehensive toolkit for transforming and augmenting map data from the nuScenes dataset. The library enables various geometric and semantic modifications to road networks, making it ideal for generating diverse map variants for autonomous driving research, data augmentation, and testing.Due to the current grouping scheme still having instability in some cases, the results may sometimes deviate. We will continue to optimize our code.
+Syn-D-Maps is a comprehensive toolkit for transforming and augmenting map data from the nuScenes dataset. The library enables various geometric and semantic modifications to road networks, making it ideal for generating diverse map variants for autonomous driving research, data augmentation, and testing. Due to the current grouping scheme still having instability in some cases, the results may sometimes deviate. We will continue to optimize our code.
 
 ## Features
 
