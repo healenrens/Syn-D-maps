@@ -85,8 +85,7 @@ If you use Syn-D-maps in your research, please cite:
 
 ```
 @misc{syn-d-maps,
-  author = {Haoming Xu, Yiyang Xiao, Wei Li, Yu Hu},
-  title = {Generating Synthetic Deviation Maps for Prior-Enhanced Vectorized HD Map Construction},
+  title = {Syn-D-maps},
   year = {2025},
   publisher = {GitHub},
   journal = {GitHub Repository},
