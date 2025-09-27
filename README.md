@@ -81,16 +81,20 @@ Most transformation functions accept common parameters:
 
 ## Citation
 
-If you use Syn-D-maps in your research, please cite:
+If you use Syn-D-maps in your research, please cite our paper:
 
 ```
-@misc{syn-d-maps,
-  title = {Syn-D-maps},
-  year = {2025},
-  publisher = {GitHub},
-  journal = {GitHub Repository},
-  howpublished = {\url{https://github.com/healenrens/Syn-D-maps}}
-}
+@INPROCEEDINGS{11097394,
+  author={Xu, Haoming and Xiao, Yiyang and Li, Wei and Hu, Yu},
+  booktitle={2025 IEEE Intelligent Vehicles Symposium (IV)}, 
+  title={Generating Synthetic Deviation Maps for Prior-Enhanced Vectorized HD Map Construction}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={419-426},
+  keywords={Accuracy;Roads;Semantics;Neural networks;Fault tolerant systems;Training data;Generative adversarial networks;Robustness;Autonomous vehicles;Substrates},
+  doi={10.1109/IV64158.2025.11097394}}
 ```
 
 References to our paper will be released after publication.
+
